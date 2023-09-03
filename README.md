@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <a href="mailto:alfonsodiazc.09@gmail.com?subject=See%20you%20Github%20profile" target="_blank">
+  <a href="mailto:alfonsodiazc.09@gmail.com?subject=I%20saw%20your%20Github%20profile" target="_blank">
     <img src="Social-Media/gmail.png" height="50">
   </a>
   <a href="https://www.linkedin.com/in/alfonsodiazc09/" target="_blank">
