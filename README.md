@@ -14,7 +14,30 @@
 
 # My Skills 🚀✨
 
-<img src="Skills/html-5.png" height="50">
+<div align="center">
+  <img src="Skills/html-5.png" height="50">
+  <img src="Skills/css-3.png" height="50">
+  <img src="Skills/js.png" height="50">
+  <img src="Skills/bootstrap.png" height="50">
+  <img src="Skills/mysql.png" height="50">
+  <img src="Skills/androide.png" height="50">
+  <img src="Skills/php.png" height="50">
+  <img src="Skills/python.png" height="50">
+  <img src="Skills/java.png" height="50">
+  <img src="Skills/kotlin.png" height="50">
+</div>
+
+<div align="center">
+  <img src="Skills/git.png" height="50">
+  <img src="Skills/django.png" height="50">
+  <img src="Skills/mongodb.png" height="50">
+  <img src="Skills/figma.png" height="50">
+  <img src="Skills/laravel.png" height="50">  
+  <img src="Skills/opencv.png" height="50">
+  <img src="Skills/tensorflowpng.png" height="50">
+  <img src="Skills/firebase.png" height="50">
+</div>
+
 
 <br><br>
 
