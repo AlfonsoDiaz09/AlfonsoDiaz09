@@ -3,7 +3,11 @@
   
 <p>I am constantly learning about new technologies and personal development that allow me to be a better person every day.</p>
 
+<br>
+
 ### <p>You can contact me through 👇</p>
+
+<br>
 
 [<img src="Social-Media/gmail.png" height="50">](mailto:alfonsodiazc.09@gmail.com?subject=See%20you%20Github%20profile)
 [<img src="Social-Media/linkedIn.png" height="50">](https://www.linkedin.com/in/alfonsodiazc09/)
@@ -13,6 +17,8 @@
 <br><br>
 
 # My Skills 🚀✨
+
+<br>
 
 <div align="center">
   <img src="Skills/html-5.png" height="50">
@@ -41,6 +47,13 @@
 
 <br><br>
 
-![Alfonso Díaz](https://github-readme-stats.vercel.app/api?username=AlfonsoDiaz09&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+# Github's Stadistics 📈🧠
+
+<br><br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfonsoDiaz09&show_icons=true&theme=merko&line_height=27&hide=contribs">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoDiaz09&theme=merko">  
+</p>
 
 
