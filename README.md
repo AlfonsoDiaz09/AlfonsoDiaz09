@@ -3,8 +3,6 @@
   
 <p>I am constantly learning about new technologies and personal development that allow me to be a better person every day.</p>
 
-<br>
-
 ### <p>You can contact me through 👇</p>
 
 <br>
