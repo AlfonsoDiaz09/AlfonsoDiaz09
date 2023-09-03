@@ -5,10 +5,10 @@
 
 ### <p>You can contact me through 👇</p>
 
-[<img src="gmail.png" height="50">](mailto:alfonsodiazc.09@gmail.com?subject=See%20you%20Github%20profile)
-[<img src="linkedIn.png" height="50">](https://www.linkedin.com/in/alfonsodiazc09/)
-[<img src="instagram.png" height="50">](https://www.instagram.com/alfonsodiazc.09/)
-[<img src="facebook.png" height="50">](https://www.facebook.com/AlfonsoDiazC.09/)
+[<img src="Social-Media/gmail.png" height="50">](mailto:alfonsodiazc.09@gmail.com?subject=See%20you%20Github%20profile)
+[<img src="Social-Media/linkedIn.png" height="50">](https://www.linkedin.com/in/alfonsodiazc09/)
+[<img src="Social-Media/instagram.png" height="50">](https://www.instagram.com/alfonsodiazc.09/)
+[<img src="Social-Media/facebook.png" height="50">](https://www.facebook.com/AlfonsoDiazC.09/)
 
 <br><br>
 
