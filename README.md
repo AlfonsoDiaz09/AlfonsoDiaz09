@@ -9,10 +9,21 @@
 
 <br>
 
-[<img src="Social-Media/gmail.png" height="50">](mailto:alfonsodiazc.09@gmail.com?subject=See%20you%20Github%20profile)
-[<img src="Social-Media/linkedIn.png" height="50">](https://www.linkedin.com/in/alfonsodiazc09/)
-[<img src="Social-Media/instagram.png" height="50">](https://www.instagram.com/alfonsodiazc.09/)
-[<img src="Social-Media/facebook.png" height="50">](https://www.facebook.com/AlfonsoDiazC.09/)
+<div align="center">
+  <a href="mailto:alfonsodiazc.09@gmail.com?subject=See%20you%20Github%20profile" target="_blank">
+    <img src="Social-Media/gmail.png" height="50">
+  </a>
+  <a href="https://www.linkedin.com/in/alfonsodiazc09/" target="_blank">
+    <img src="Social-Media/linkedIn.png" height="50">
+  </a>
+  <a href="https://www.instagram.com/alfonsodiazc.09/" target="_blank">
+    <img src="Social-Media/instagram.png" height="50">
+  </a>
+  <a href="https://www.facebook.com/AlfonsoDiazC.09/" target="_blank">
+    <img src="Social-Media/facebook.png" height="50">
+  </a>
+</div>
+
 
 <br><br>
 
