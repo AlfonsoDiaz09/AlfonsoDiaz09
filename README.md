@@ -27,7 +27,7 @@
 
 <br><br>
 
-# My Skills 🚀✨
+# Technologies and Tools 🚀✨
 
 <br>
 
