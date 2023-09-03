@@ -6,7 +6,9 @@
 #### <p>You can contact me through 👇</p>
 
 <div align="center">
-  <a href="mailto:alfonsodiazc.09@gmail.com?subject=See%20you%20Github%20profile">Gmail</a>
+  <a href="mailto:alfonsodiazc.09@gmail.com?subject=See%20you%20Github%20profile">
+    <img src="https://github.com/AlfonsoDiaz09/AlfonsoDiaz09/assets/112213375/b54620b5-9b10-47b8-bc19-70f516241bf7" width="100">
+  </a>
   <a href="https://www.linkedin.com/in/alfonsodiazc09/">LinkdIn</a>
   <a href="https://www.instagram.com/alfonsodiazc.09/">Instagram</a>
   <a href="https://www.facebook.com/AlfonsoDiazC.09/">Facebook</a>
