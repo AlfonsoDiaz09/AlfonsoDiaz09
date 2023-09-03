@@ -60,6 +60,9 @@
 
 <br><br>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlfonsoDiaz09&show_icons=true&theme=merko&line_height=27&hide=contribs">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AlfonsoDiaz09&theme=merko">  
+</p>
 
 
