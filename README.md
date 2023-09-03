@@ -47,7 +47,7 @@
 
 <br><br>
 
-# Github's Stadistics 📈🧠
+# Github Statistics 📈🧠
 
 <br><br>
 
